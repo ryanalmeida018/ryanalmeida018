@@ -71,7 +71,7 @@ Busco uma oportunidade nas áreas de:
 - Service Desk
 - Analista de Suporte
 
-Tenho também interesse em desenvolver minha carreira na área de Análise de Dados e Programacao.
+Tenho também interesse em desenvolver minha carreira nas áreas de Análise de Dados e Programação.
 
 ---
 
