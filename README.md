@@ -77,6 +77,6 @@ Tenho também interesse em desenvolver minha carreira nas áreas de Análise de 
 
 ## 📫 Contato
 
-- LinkedIn:[www.linkedin.com/in/ryanalmeida16](https://www.linkedin.com/in/ryanalmeida16)
+- LinkedIn: [www.linkedin.com/in/ryanalmeida16](https://www.linkedin.com/in/ryanalmeida16)
 - E-mail: ryanalmeida018@gmail.com
 - GitHub: [https://github.com/ryanalmeida018](https://github.com/ryanalmeida018)
