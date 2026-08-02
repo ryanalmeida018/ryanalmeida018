@@ -1,6 +1,6 @@
 # Olá! Eu sou Ryan Almeida 👋
 
-### Suporte Técnico | Análise de Dados
+### Suporte Técnico | Analista de Suporte
 
 Profissional em início de carreira na área de Tecnologia da Informação, com experiência prática em configuração e monitoramento de sistemas, manutenção e otimização de computadores e suporte aos usuários.
 
