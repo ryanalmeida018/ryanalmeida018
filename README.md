@@ -78,5 +78,5 @@ Busco uma oportunidade na área de **Tecnologia da Informação**, especialmente
 
 ## 📫 Contato
 
-* 💼 LinkedIn: [www.linkedin.com/in/ryanalmeida16](www.linkedin.com/in/ryanalmeida16)
+* 💼 LinkedIn: [www.linkedin.com/in/ryanalmeida16](https://www.linkedin.com/in/ryanalmeida16))
 * 🐙 GitHub: [ryanalmeida018](https://github.com/ryanalmeida018)
