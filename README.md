@@ -1,82 +1,82 @@
-# Olá! Eu sou Ryan Almeida 👋
+# Olá! 👋 Eu sou Ryan Almeida
 
-### Suporte Técnico | Analista de Suporte
+### 💻 Suporte Técnico | TI | Análise e Solução de Problemas
 
-Profissional em início de carreira na área de Tecnologia da Informação, com experiência prática em configuração e monitoramento de sistemas, manutenção e otimização de computadores e suporte aos usuários.
+Profissional em desenvolvimento na área de Tecnologia da Informação, com conhecimentos e experiência prática em **suporte técnico, configuração e otimização de computadores, sistemas, ferramentas Microsoft Office e desenvolvimento de sites**.
 
-Tenho conhecimentos em Microsoft Excel, Word e PowerPoint e estou desenvolvendo minhas habilidades em Python e SQL, com interesse em análise de dados.
-
----
-
-## 🖥️ Suporte Técnico
-
-- Formatação e instalação de computadores
-- Instalação e configuração do Windows
-- Instalação de drivers e softwares
-- Otimização de desempenho
-- Diagnóstico e resolução de problemas
-- Manutenção de computadores
-- Suporte aos usuários
-- Configuração e monitoramento de sistemas
+Tenho interesse em oportunidades na área de **Suporte Técnico, Help Desk, Service Desk e TI**, buscando aplicar meus conhecimentos e continuar evoluindo profissionalmente.
 
 ---
 
-## 📊 Ferramentas
+## 🛠️ Conhecimentos
 
-- Microsoft Excel
-- Microsoft Word
-- Microsoft PowerPoint
+### 💻 Suporte e TI
 
----
+* Formatação e instalação de computadores
+* Configuração de sistemas
+* Instalação de drivers e softwares
+* Otimização de computadores
+* Diagnóstico e resolução de problemas
+* Monitoramento de sistemas
+* Suporte aos usuários
 
-## 💻 Programação e Dados
+### 📊 Ferramentas
 
-- Python — em aprendizado
-- SQL — em aprendizado
+* Microsoft Excel
+* Microsoft Word
+* Microsoft PowerPoint
+* WordPress
+* Elementor
 
----
+### 💻 Desenvolvimento e Dados
 
-## 💼 Experiência Prática
-
-### Sistema de Gerenciamento de Alunos
-
-Configuração e monitoramento de um sistema de gerenciamento utilizado por uma escola de dança.
-
-**Atividades:**
-- Configuração do sistema
-- Monitoramento
-- Suporte aos usuários
-- Organização de informações
-- Identificação e resolução de problemas
-
-### Manutenção de Computadores
-
-Experiência prática com manutenção e otimização de computadores.
-
-**Atividades:**
-- Formatação
-- Instalação do Windows
-- Instalação de softwares e drivers
-- Otimização do sistema
-- Diagnóstico de problemas
+* Python — em aprendizado
+* SQL — em aprendizado
+* HTML/CSS — conhecimentos aplicados em projetos
 
 ---
 
-## 🎯 Objetivo
+## 🚀 Projetos em destaque
 
-Busco uma oportunidade nas áreas de:
+### 🏫 Sistema de Gerenciamento de Alunos
 
-- Suporte Técnico
-- Help Desk
-- Service Desk
-- Analista de Suporte
+Experiência prática com configuração, monitoramento e suporte de um sistema de gerenciamento de alunos utilizado por uma escola de dança.
 
-Tenho também interesse em desenvolver minha carreira nas áreas de Análise de Dados e Programação.
+**[Ver projeto →](https://github.com/ryanalmeida018/sistema-gerenciamento-alunos)**
+
+### 🖥️ Suporte Técnico
+
+Documentação de conhecimentos e procedimentos relacionados à formatação, instalação, configuração, otimização e diagnóstico de computadores.
+
+**[Ver projeto →](https://github.com/ryanalmeida018/suporte-tecnico)**
+
+### 🌐 Site WordPress + Elementor
+
+Projeto de desenvolvimento de site utilizando WordPress e Elementor, incluindo criação de páginas, organização de conteúdo, personalização visual e responsividade.
+
+**[Ver projeto →](https://github.com/ryanalmeida018/site-wordpress-elementor)**
+
+---
+
+## 📚 Em desenvolvimento
+
+Atualmente continuo desenvolvendo meus conhecimentos em:
+
+* Python
+* SQL
+* Análise de dados
+* Automação
+* Tecnologia da Informação
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade na área de **Tecnologia da Informação**, especialmente em **Suporte Técnico, Help Desk, Service Desk ou áreas relacionadas**, onde possa contribuir com meus conhecimentos, desenvolver novas habilidades e crescer profissionalmente.
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: [www.linkedin.com/in/ryanalmeida16](https://www.linkedin.com/in/ryanalmeida16)
-- E-mail: ryanalmeida018@gmail.com
-- GitHub: [https://github.com/ryanalmeida018](https://github.com/ryanalmeida018)
+* 💼 LinkedIn: [www.linkedin.com/in/ryanalmeida16](www.linkedin.com/in/ryanalmeida16)
+* 🐙 GitHub: [ryanalmeida018](https://github.com/ryanalmeida018)
